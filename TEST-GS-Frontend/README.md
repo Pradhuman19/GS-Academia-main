@@ -6,11 +6,11 @@
 
 > #### Full Stack GitHub Repo - [Click Here]()
 >
-> #### Frontend GitHub Repo - [Click Here](https://github.com/parth5404/TEST-GS-Frontend)
+> #### Frontend GitHub Repo - [Click Here](https://github.com/Pradhuman5404/TEST-GS-Frontend)
 >
-> #### Backend GitHub Repo - [Click Here](https://github.com/parth5404/TEST-GS-Backend)
+> #### Backend GitHub Repo - [Click Here](https://github.com/Pradhuman5404/TEST-GS-Backend)
 >
-> #### Frontend Live at - [https://gsacademia-parth-lahotis-projects.vercel.app/](https://gsacademia-parth-lahotis-projects.vercel.app/)
+> #### Frontend Live at - [https://gsacademia-Pradhuman-Guptas-projects.vercel.app/](https://gsacademia-Pradhuman-Guptas-projects.vercel.app/)
 >
 > #### Backend Live at - [https://test-gs-backend.onrender.com/](https://test-gs-backend.onrender.com/)
 
@@ -20,8 +20,8 @@
 
 
 
-The Website is live at ( on Vercel ) - [GS Acdemia](https://gsacademia-parth-lahotis-projects.vercel.app/)
+The Website is live at ( on Vercel ) - [GS Acdemia](https://gsacademia-Pradhuman-Guptas-projects.vercel.app/)
 
 - Version - 1.0.0
-- License: parth5404
-- Author: Parth Lahoti
+- License: Pradhuman5404
+- Author: Pradhuman Gupta
